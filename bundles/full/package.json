@@ -119,7 +119,8 @@
         "@tsparticles/updater-roll": "workspace:3.7.0",
         "@tsparticles/updater-tilt": "workspace:3.7.0",
         "@tsparticles/updater-twinkle": "workspace:3.7.0",
-        "@tsparticles/updater-wobble": "workspace:3.7.0"
+        "@tsparticles/updater-wobble": "workspace:3.7.0",
+        "pnpm": "^9.0.0"
     },
     "publishConfig": {
         "access": "public",

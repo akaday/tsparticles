@@ -118,6 +118,9 @@
         "@tsparticles/updater-out-modes": "workspace:3.7.0",
         "@tsparticles/updater-size": "workspace:3.7.0"
     },
+    "devDependencies": {
+        "pnpm": "^9.0.0"
+    },
     "publishConfig": {
         "access": "public",
         "directory": "dist",

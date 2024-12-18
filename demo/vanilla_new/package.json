@@ -36,7 +36,8 @@
     "devDependencies": {
         "fs-extra": "^11.1.1",
         "minify": "^12.0.0",
-        "sass": "^1.69.5"
+        "sass": "^1.69.5",
+        "pnpm": "^9.0.0"
     },
     "dependencies": {
         "@tsparticles/configs": "workspace:3.7.0",
