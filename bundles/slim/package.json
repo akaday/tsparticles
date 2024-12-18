@@ -132,7 +132,8 @@
         "@tsparticles/shape-star": "workspace:3.7.0",
         "@tsparticles/updater-life": "workspace:3.7.0",
         "@tsparticles/updater-rotate": "workspace:3.7.0",
-        "@tsparticles/updater-stroke-color": "workspace:3.7.0"
+        "@tsparticles/updater-stroke-color": "workspace:3.7.0",
+        "pnpm": "^9.0.0"
     },
     "publishConfig": {
         "access": "public",

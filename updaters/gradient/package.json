@@ -111,6 +111,9 @@
     "dependencies": {
         "@tsparticles/engine": "workspace:3.7.0"
     },
+    "devDependencies": {
+        "pnpm": "^9.0.0"
+    },
     "publishConfig": {
         "access": "public",
         "directory": "dist",
